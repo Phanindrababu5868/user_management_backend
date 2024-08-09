@@ -28,7 +28,7 @@ This project is a backend API built with Node.js, Express, and MongoDB. It inclu
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/backend-task.git](https://github.com/Phanindrababu5868/user_management_backend)
+   git clone https://github.com/Phanindrababu5868/user_management_backend
    cd backend-task
    ```
 2. Install dependencies:
